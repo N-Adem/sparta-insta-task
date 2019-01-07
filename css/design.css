@@ -1,0 +1,38 @@
+
+.flex-container{
+    display: flex;
+   /* background-color: aqua;*/
+    justify-content: center;
+   
+    
+}
+
+.flex-secondary{
+    display:flex;
+   /* background-color: blueviolet;*/
+    justify-content: center;
+    flex-direction: column;
+    justify-content: space-between;
+    border-style: groove;
+    border-width: 3px;
+}
+
+.flex-third{
+    display: flex;
+    background-color: brown;
+}
+
+.flex-logo{
+    display: flex;
+    justify-content: center;
+}
+
+.flex-footer{
+    display:flex;
+    background-color: chocolate;
+    justify-content: space-around;
+}
+
+.flex-form{
+    justify-content: center;
+}
