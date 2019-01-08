@@ -31,6 +31,7 @@
     display:flex;
     background-color: chocolate;
     justify-content: space-around;
+    flex-direction: row;
 }
 
 .flex-form{
